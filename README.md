@@ -1,4 +1,5 @@
 INTRODUCTION
+
 Throughout your career in software design and development, you will be asked to create applications with various features and functionality based on business requirements. For this assessment, you will create a Java desktop application using the solution statements provided in the requirements section of this assessment.
 
 
